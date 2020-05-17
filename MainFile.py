@@ -2,6 +2,7 @@ from pycoingecko import CoinGeckoAPI
 import time
 
 # https://github.com/man-c/pycoingecko
+# https://www.youtube.com/watch?v=hpkOjWn8j5U
 
 # coded by Taj and HMan
 
