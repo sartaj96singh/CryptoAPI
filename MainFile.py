@@ -1,5 +1,8 @@
 from pycoingecko import CoinGeckoAPI
 import time
+
+# https://github.com/man-c/pycoingecko
+
 # coded by Taj and HMan
 
 # add - time when new price was added
