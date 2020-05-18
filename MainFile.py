@@ -1,14 +1,6 @@
 from pycoingecko import CoinGeckoAPI
 import time
 
-# https://github.com/man-c/pycoingecko
-# https://www.youtube.com/watch?v=hpkOjWn8j5U
-
-# coded by Taj and HMan
-
-# add - time when new price was added
-# add - write data out to file
-
 cg = CoinGeckoAPI()
 
 cryptoNames = ['bitcoin', 'ethereum']
@@ -32,7 +24,4 @@ while True:
 
     print(priceDict)
     time.sleep(60)
-
-
-
-
+   
